@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG - Replace YOUR_NAME -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+YOUR_NAME;CSE+Student+%7C+Problem+Solver;Building+cool+stuff+one+commit+at+a+time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Pankaj_Patwa;CSE+Student+%7C+Problem+Solver;Building+cool+stuff+one+commit+at+a+time)](https://git.io/typing-svg)
 
 <!-- Profile Views Counter -->
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6E40C9&style=flat)
@@ -16,9 +16,9 @@
 ```java
 public class AboutMe {
 
-    String name        = "YOUR_NAME";
-    String college     = "YOUR_COLLEGE NAME, B.Tech CSE (20XX–20XX)";
-    String location    = "YOUR_CITY, India 🇮🇳";
+    String name        = "Pankaj Patwa";
+    String college     = "ARKA JAIN UNIVERSITY, B.Tech CSE (20XX–20XX)";
+    String location    = "JAMSHEDPUR, India 🇮🇳";
     String goal        = "SDE @ FAANG | Competitive Programmer";
 
     String[] currentlyLearning = {
