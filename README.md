@@ -16,7 +16,7 @@
 ```java
 public class AboutMe {
 
-    String name        = "Pankaj Patwa";
+    String name        = "Pankaj Kumar Patwa";
     String college     = "ARKA JAIN UNIVERSITY, B.Tech CSE (20XX–20XX)";
     String location    = "JAMSHEDPUR, India 🇮🇳";
     String goal        = "SDE @ FAANG | Competitive Programmer";
