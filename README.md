@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Animated terminal-style ASCII banner (generated, staggered typing reveal) -->
-<img src="./assets/ascii-banner.svg" alt="Pankaj ASCII banner" width="700"/>
 
 <!-- Animated typing tagline -->
 <a href="https://github.com/YOUR_USERNAME">
