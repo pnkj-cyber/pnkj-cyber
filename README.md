@@ -1,29 +1,42 @@
-<img width="408" height="153" alt="github" src="https://github.com/user-attachments/assets/fae440e8-67e2-45d9-ad43-a4cf24f4361e" />
-
-# 💫 About Me:
-Hi, I’m **Pankaj Kumar Patwa**, a passionate Computer Science student at Arka Jain University with a strong interest in building modern digital experiences through software development, full-stack web technologies, AI-powered solutions, graphic design, and creative typography.<br>I enjoy transforming ideas into functional and visually engaging projects. My journey in technology started with curiosity and has grown into a deep passion for coding, problem-solving, UI/UX creativity, and continuous learning. I work across both frontend and backend development, focusing on creating responsive, user-friendly, and scalable web applications.<br>As a **Full Stack Developer**, I explore technologies such as HTML, CSS, JavaScript, React, Node.js, Python, databases, and modern development tools. I’m constantly experimenting with new frameworks and AI technologies to improve performance, automation, and user experience in web applications.<br>Alongside development, I also have a creative side. I’m passionate about **Graphic Design** and **Typography**, where I combine creativity with digital design principles to create clean visuals, branding concepts, modern layouts, and impactful user interfaces. I believe good design is not just about appearance — it’s about communication, clarity, and experience.<br>I’m also highly interested in **Artificial Intelligence** and emerging technologies. I enjoy learning how AI can be integrated into modern applications to create smarter systems, automate workflows, and improve digital interaction. My goal is to continuously evolve as a developer who can blend software engineering, design, and AI innovation into meaningful products.<br><br>Currently, I’m focused on:<br><br>* Full Stack Web Development<br>* AI-integrated Web Applications<br>* Software Development Projects<br>* UI/UX and Responsive Design<br>* Graphic Design & Typography<br>* Open Source Learning<br>* Building Real-World Projects<br>* Expanding Problem-Solving Skills<br><br>I believe in consistency, creativity, and continuous growth. Every project I build helps me improve my technical knowledge, design thinking, and development workflow. I’m always excited to collaborate, learn new technologies, and contribute to innovative ideas in the tech community.<br><br>> “Code with logic, design with creativity, and build with purpose.”<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pankaj-kumar-patwa-624907305/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/ppatwa455) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ppatwa455@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=plastic&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=plastic&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=plastic&logo=proto.io&logoColor=00e5ff) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pnkj-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=pnkj-cyber&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pnkj-cyber&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pnkj-cyber&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pnkj-cyber&limit=5&theme=merko&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=pnkj-cyber&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<svg viewBox="0 0 760 470" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
+<style>
+  .bg { fill:#0d1117; }
+  .bar { fill:#161b22; }
+  .dot1{fill:#ff5f56;} .dot2{fill:#ffbd2e;} .dot3{fill:#27c93f;}
+  .title{ fill:#8b949e; font-size:12px; }
+  .art { fill:#58a6ff; font-size:13px; }
+  .hdr { fill:#f0883e; font-size:13px; font-weight:bold; }
+  .key { fill:#7ee787; font-size:13px; }
+  .val { fill:#c9d1d9; font-size:13px; }
+  .cursor { fill:#c9d1d9; }
+  .fadein { opacity:0; animation: reveal 0.4s ease forwards; }
+</style>
+<rect class="bg" width="760" height="470" rx="10"/>
+<rect class="bar" width="760" height="34" rx="10"/>
+<circle class="dot1" cx="22" cy="17" r="6"/><circle class="dot2" cx="42" cy="17" r="6"/><circle class="dot3" cx="62" cy="17" r="6"/>
+<text x="380.0" y="21" text-anchor="middle" class="title">pankaj@github ~ README.md</text>
+<text x="24" y="70" class="art fadein" style="animation-delay:0.0s"> ___  _   _  _ _  __   _     _ </text>
+<text x="24" y="86" class="art fadein" style="animation-delay:0.06s">| _ \/_\ | \| | |/ /  /_\ _ | |</text>
+<text x="24" y="102" class="art fadein" style="animation-delay:0.12s">|  _/ _ \| .` | ' &lt;  / _ \ || |</text>
+<text x="24" y="118" class="art fadein" style="animation-delay:0.18s">|_|/_/ \_\_|\_|_|\_\/_/ \_\__/ </text>
+<text x="24" y="134" class="art fadein" style="animation-delay:0.24s">                               </text>
+<text x="24" y="170" class="key fadein" style="animation-delay:0.6s">$ <tspan class="val">whoami</tspan></text>
+<text x="34" y="190" class="key fadein" style="animation-delay:0.72s">Now       <tspan class="val">  B.Tech CS Student @ Arka Jain University</tspan></text>
+<text x="34" y="210" class="key fadein" style="animation-delay:0.84s">Grad      <tspan class="val">  2028</tspan></text>
+<text x="34" y="230" class="key fadein" style="animation-delay:0.96s">Focus     <tspan class="val">  Full-Stack Dev + Generative AI</tspan></text>
+<text x="24" y="260.0" class="hdr fadein" style="animation-delay:1.13s">Stack</text>
+<text x="34" y="280.0" class="key fadein" style="animation-delay:1.25s">Frontend  <tspan class="val">  React, TypeScript</tspan></text>
+<text x="34" y="300.0" class="key fadein" style="animation-delay:1.37s">Backend   <tspan class="val">  Node.js, Express, Django</tspan></text>
+<text x="34" y="320.0" class="key fadein" style="animation-delay:1.49s">AI/ML     <tspan class="val">  Gemini API, RAG, OpenCV</tspan></text>
+<text x="34" y="340.0" class="key fadein" style="animation-delay:1.61s">Data      <tspan class="val">  MySQL, MongoDB</tspan></text>
+<text x="24" y="370.0" class="hdr fadein" style="animation-delay:1.78s">Highlights</text>
+<text x="34" y="390.0" class="key fadein" style="animation-delay:1.9s">-         <tspan class="val">  Built RAG-based AI chatbot</tspan></text>
+<text x="34" y="410.0" class="key fadein" style="animation-delay:2.02s">-         <tspan class="val">  Full-stack e-commerce platforms</tspan></text>
+<text x="34" y="430.0" class="key fadein" style="animation-delay:2.14s">-         <tspan class="val">  Targeting FAANG internships</tspan></text>
+<rect class="cursor" x="24" y="437.0" width="9" height="15">
+<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
+</rect>
+<style>
+@keyframes reveal { to { opacity:1; } }
+</style>
+</svg>
