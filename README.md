@@ -1,42 +1,56 @@
-<svg viewBox="0 0 760 470" xmlns="http://www.w3.org/2000/svg" font-family="Consolas, Menlo, monospace">
-<style>
-  .bg { fill:#0d1117; }
-  .bar { fill:#161b22; }
-  .dot1{fill:#ff5f56;} .dot2{fill:#ffbd2e;} .dot3{fill:#27c93f;}
-  .title{ fill:#8b949e; font-size:12px; }
-  .art { fill:#58a6ff; font-size:13px; }
-  .hdr { fill:#f0883e; font-size:13px; font-weight:bold; }
-  .key { fill:#7ee787; font-size:13px; }
-  .val { fill:#c9d1d9; font-size:13px; }
-  .cursor { fill:#c9d1d9; }
-  .fadein { opacity:0; animation: reveal 0.4s ease forwards; }
-</style>
-<rect class="bg" width="760" height="470" rx="10"/>
-<rect class="bar" width="760" height="34" rx="10"/>
-<circle class="dot1" cx="22" cy="17" r="6"/><circle class="dot2" cx="42" cy="17" r="6"/><circle class="dot3" cx="62" cy="17" r="6"/>
-<text x="380.0" y="21" text-anchor="middle" class="title">pankaj@github ~ README.md</text>
-<text x="24" y="70" class="art fadein" style="animation-delay:0.0s"> ___  _   _  _ _  __   _     _ </text>
-<text x="24" y="86" class="art fadein" style="animation-delay:0.06s">| _ \/_\ | \| | |/ /  /_\ _ | |</text>
-<text x="24" y="102" class="art fadein" style="animation-delay:0.12s">|  _/ _ \| .` | ' &lt;  / _ \ || |</text>
-<text x="24" y="118" class="art fadein" style="animation-delay:0.18s">|_|/_/ \_\_|\_|_|\_\/_/ \_\__/ </text>
-<text x="24" y="134" class="art fadein" style="animation-delay:0.24s">                               </text>
-<text x="24" y="170" class="key fadein" style="animation-delay:0.6s">$ <tspan class="val">whoami</tspan></text>
-<text x="34" y="190" class="key fadein" style="animation-delay:0.72s">Now       <tspan class="val">  B.Tech CS Student @ Arka Jain University</tspan></text>
-<text x="34" y="210" class="key fadein" style="animation-delay:0.84s">Grad      <tspan class="val">  2028</tspan></text>
-<text x="34" y="230" class="key fadein" style="animation-delay:0.96s">Focus     <tspan class="val">  Full-Stack Dev + Generative AI</tspan></text>
-<text x="24" y="260.0" class="hdr fadein" style="animation-delay:1.13s">Stack</text>
-<text x="34" y="280.0" class="key fadein" style="animation-delay:1.25s">Frontend  <tspan class="val">  React, TypeScript</tspan></text>
-<text x="34" y="300.0" class="key fadein" style="animation-delay:1.37s">Backend   <tspan class="val">  Node.js, Express, Django</tspan></text>
-<text x="34" y="320.0" class="key fadein" style="animation-delay:1.49s">AI/ML     <tspan class="val">  Gemini API, RAG, OpenCV</tspan></text>
-<text x="34" y="340.0" class="key fadein" style="animation-delay:1.61s">Data      <tspan class="val">  MySQL, MongoDB</tspan></text>
-<text x="24" y="370.0" class="hdr fadein" style="animation-delay:1.78s">Highlights</text>
-<text x="34" y="390.0" class="key fadein" style="animation-delay:1.9s">-         <tspan class="val">  Built RAG-based AI chatbot</tspan></text>
-<text x="34" y="410.0" class="key fadein" style="animation-delay:2.02s">-         <tspan class="val">  Full-stack e-commerce platforms</tspan></text>
-<text x="34" y="430.0" class="key fadein" style="animation-delay:2.14s">-         <tspan class="val">  Targeting FAANG internships</tspan></text>
-<rect class="cursor" x="24" y="437.0" width="9" height="15">
-<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.4;0.5;0.9;1" dur="1s" repeatCount="indefinite"/>
-</rect>
-<style>
-@keyframes reveal { to { opacity:1; } }
-</style>
-</svg>
+<div align="center">
+
+<!-- Animated terminal-style ASCII banner (generated, staggered typing reveal) -->
+<img src="./assets/ascii-banner.svg" alt="Pankaj ASCII banner" width="700"/>
+
+<!-- Animated typing tagline -->
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+RAG+Builder;B.Tech+CS+%40+Arka+Jain+University;Open+to+Internships+2026" alt="Typing SVG"/>
+</a>
+
+<!-- Animated wave divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=header" width="100%"/>
+
+</div>
+
+### 🧑‍💻 About Me
+- 🎓 B.Tech CS student at Arka Jain University, Jamshedpur — graduating 2028
+- 🚀 Building full-stack apps end-to-end: React/TS frontends, Node.js/Django backends
+- 🤖 Working with Gemini API + RAG architecture for AI-powered apps
+- 🎯 Targeting FAANG-level internships in Web Dev & Generative AI
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- Animated bouncing tech-stack icons (staggered, real brand logos) -->
+<img src="./assets/tech-stack-icons.svg" alt="Tech stack" width="560"/>
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" width="48%"/>
+
+</div>
+
+### 🐍 Contribution Snake (animated, updates via GitHub Actions)
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+### 🔗 Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer" width="100%"/>
