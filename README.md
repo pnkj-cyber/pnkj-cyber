@@ -127,6 +127,11 @@ Motto: "Security is not a product, but a continuous process."
     </tr>
   </table>
 
+  <!-- Contribution Graph Snake Animation -->
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/pnkj-cyber/pnkj-cyber/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.style.display='none'" />
+  </p>
+
 </div>
 
 <br/>
